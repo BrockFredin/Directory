@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{81074CD9-A430-45B5-A8AE-1C00CEA6628E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bootstrap", "Bootstrap", "{9CD7DB8D-BBD8-438E-B823-2411E1847865}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccentureDirectoryStatisticsDemo", "AccentureDirectoryStatisticsDemo", "{6CCC3E2F-5C01-4E0E-BDB2-E0190D6F5CA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{168E3E7D-4CC1-4574-AD10-80E773235236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.UnitTests", "Projects\Tena.QA.UnitTests\Accenture.DirectoryStatistics.UnitTests.csproj", "{275D3F2B-5FD9-40F1-B064-20A675051F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.Scenarios", "Projects\Tena.QA.Pages\Accenture.DirectoryStatistics.Scenarios.csproj", "{8FE6151D-169E-43FA-9ED0-BF27ED01433A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.SimpleInjector", "Projects\Tena.QA.SimpleInjector\Accenture.DirectoryStatistics.SimpleInjector.csproj", "{CC27C6BC-57F6-43F6-BD35-389774757261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.Bootstrap", "Projects\Tena.QA.Bootstrap\Accenture.DirectoryStatistics.Bootstrap.csproj", "{B04ED652-5B4D-4A3F-B072-4BC33A078E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.Service", "Projects\Tena.QA.Services\Accenture.DirectoryStatistics.Service.csproj", "{397A8B12-82F0-4D83-8AD3-2538D4556190}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{646C6846-2AB1-4914-9B26-430F841B7E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics", "Tena.QA\Accenture.DirectoryStatistics.csproj", "{56DAEDF5-AB66-4BF5-868B-2E948C42B105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accenture.DirectoryStatistics.Core", "Projects\Tena.QA.Tests\Accenture.DirectoryStatistics.Core.csproj", "{B3F2D6EF-5957-4077-934F-E316A3C0CF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275D3F2B-5FD9-40F1-B064-20A675051F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275D3F2B-5FD9-40F1-B064-20A675051F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275D3F2B-5FD9-40F1-B064-20A675051F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275D3F2B-5FD9-40F1-B064-20A675051F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE6151D-169E-43FA-9ED0-BF27ED01433A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE6151D-169E-43FA-9ED0-BF27ED01433A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE6151D-169E-43FA-9ED0-BF27ED01433A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE6151D-169E-43FA-9ED0-BF27ED01433A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC27C6BC-57F6-43F6-BD35-389774757261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC27C6BC-57F6-43F6-BD35-389774757261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC27C6BC-57F6-43F6-BD35-389774757261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC27C6BC-57F6-43F6-BD35-389774757261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04ED652-5B4D-4A3F-B072-4BC33A078E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04ED652-5B4D-4A3F-B072-4BC33A078E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04ED652-5B4D-4A3F-B072-4BC33A078E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04ED652-5B4D-4A3F-B072-4BC33A078E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397A8B12-82F0-4D83-8AD3-2538D4556190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397A8B12-82F0-4D83-8AD3-2538D4556190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397A8B12-82F0-4D83-8AD3-2538D4556190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397A8B12-82F0-4D83-8AD3-2538D4556190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DAEDF5-AB66-4BF5-868B-2E948C42B105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DAEDF5-AB66-4BF5-868B-2E948C42B105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DAEDF5-AB66-4BF5-868B-2E948C42B105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DAEDF5-AB66-4BF5-868B-2E948C42B105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F2D6EF-5957-4077-934F-E316A3C0CF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F2D6EF-5957-4077-934F-E316A3C0CF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F2D6EF-5957-4077-934F-E316A3C0CF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F2D6EF-5957-4077-934F-E316A3C0CF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{81074CD9-A430-45B5-A8AE-1C00CEA6628E} = {168E3E7D-4CC1-4574-AD10-80E773235236}
+		{9CD7DB8D-BBD8-438E-B823-2411E1847865} = {168E3E7D-4CC1-4574-AD10-80E773235236}
+		{275D3F2B-5FD9-40F1-B064-20A675051F08} = {81074CD9-A430-45B5-A8AE-1C00CEA6628E}
+		{8FE6151D-169E-43FA-9ED0-BF27ED01433A} = {6CCC3E2F-5C01-4E0E-BDB2-E0190D6F5CA2}
+		{CC27C6BC-57F6-43F6-BD35-389774757261} = {9CD7DB8D-BBD8-438E-B823-2411E1847865}
+		{B04ED652-5B4D-4A3F-B072-4BC33A078E36} = {9CD7DB8D-BBD8-438E-B823-2411E1847865}
+		{397A8B12-82F0-4D83-8AD3-2538D4556190} = {6CCC3E2F-5C01-4E0E-BDB2-E0190D6F5CA2}
+		{646C6846-2AB1-4914-9B26-430F841B7E3E} = {6CCC3E2F-5C01-4E0E-BDB2-E0190D6F5CA2}
+		{56DAEDF5-AB66-4BF5-868B-2E948C42B105} = {168E3E7D-4CC1-4574-AD10-80E773235236}
+		{B3F2D6EF-5957-4077-934F-E316A3C0CF8A} = {646C6846-2AB1-4914-9B26-430F841B7E3E}
+	EndGlobalSection
+EndGlobal

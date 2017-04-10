@@ -1,0 +1,26 @@
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\bin\Debug\SimpleInjector.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\obj\Debug\Accenture.DirectoryStatistics.SimpleInjector.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\obj\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.SimpleInjector\obj\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\SimpleInjector.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Service.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\bin\Debug\SimpleInjector.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\obj\Debug\Accenture.DirectoryStatistics.SimpleInjector.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\obj\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.SimpleInjector\obj\Debug\Tena.QA.SimpleInjector.pdb

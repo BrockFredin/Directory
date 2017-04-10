@@ -1,0 +1,69 @@
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\nunit.framework.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\OpenPop.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\Tena.QA.SpecFlow.csprojResolveAssemblyReference.cache
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\nunit.framework.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\OpenPop.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\Tena.QA.SpecFlow.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\Tena.QA.SpecFlow.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\nunit.framework.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\OpenPop.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\WebDriver.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\WebDriver.Support.xml

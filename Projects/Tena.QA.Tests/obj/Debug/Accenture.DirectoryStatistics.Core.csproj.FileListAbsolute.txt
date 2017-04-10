@@ -1,0 +1,51 @@
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\Accenture.DirectoryStatistics.Core.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\Accenture.DirectoryStatistics.Core.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll.config
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\ClientPortalTests.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Pages.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\Tena.QA.Service.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.xml
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.pdb
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\bin\Debug\FluentAssertions.Core.xml
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\Accenture.DirectoryStatistics.Core.csprojResolveAssemblyReference.cache
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.dll
+E:\Accenture\Accenture.DirectoryStatistics\Projects\Tena.QA.Tests\obj\Debug\ClientPortalTests.pdb

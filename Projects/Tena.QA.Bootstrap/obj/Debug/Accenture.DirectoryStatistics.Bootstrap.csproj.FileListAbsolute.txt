@@ -1,0 +1,28 @@
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Accenture.DirectoryStatistics.Bootstrap.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.exe
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\obj\Debug\Accenture.DirectoryStatistics.Bootstrap.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.exe
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.pdb

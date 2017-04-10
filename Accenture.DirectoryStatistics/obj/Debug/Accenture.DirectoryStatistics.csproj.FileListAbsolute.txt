@@ -1,0 +1,24 @@
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Tena.QA.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Tena.QA.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\obj\Debug\Accenture.DirectoryStatistics.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\obj\Debug\Tena.QA.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\obj\Debug\Tena.QA.pdb
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\Tena.QA.dll
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\Tena.QA.pdb
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.dll
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.pdb
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.xml
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\obj\Debug\Accenture.DirectoryStatistics.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\obj\Debug\Tena.QA.dll
+E:\tena\Accenture.DirectoryStatistics\Tena.QA\obj\Debug\Tena.QA.pdb

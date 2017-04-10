@@ -1,0 +1,35 @@
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\Tena.QA.dll
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\Tena.QA.pdb
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.dll
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.dll
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.pdb
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.xml
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.pdb
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.xml
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\obj\Debug\Tena.QA.dll
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\obj\Debug\Tena.QA.pdb
+C:\workspace8\Tena.QA\Tena.QA\Tena.QA\obj\Debug\Tena.QA.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA\Tena.QA\bin\Debug\Tena.QA.dll
+E:\tena\Tena.QA\Tena.QA\bin\Debug\Tena.QA.pdb
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA\Tena.QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA\Tena.QA\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA\Tena.QA\obj\Debug\Tena.QA.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA\Tena.QA\obj\Debug\Tena.QA.dll
+E:\tena\Tena.QA\Tena.QA\obj\Debug\Tena.QA.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Tena.QA.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Tena.QA.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\obj\Debug\Tena.QA.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Tena.QA\obj\Debug\Tena.QA.pdb

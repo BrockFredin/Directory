@@ -1,0 +1,84 @@
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll.config
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\ClientPortalTests.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Moq.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.Support.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\nunit.framework.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\ClientPortalTests.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Moq.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.Support.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\nunit.framework.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.csprojResolveAssemblyReference.cache
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll.config
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\ClientPortalTests.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Moq.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.Support.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\nunit.framework.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\ClientPortalTests.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\ClientPortalTests.dll.config
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\Moq.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.Support.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\nunit.framework.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\bin\Debug\FluentAssertions.Core.xml
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.dll
+E:\tena\Tena.QA\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\obj\Debug\Tena.QA.UnitTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.UnitTests.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Moq.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\TechTalk.SpecFlow.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Castle.Core.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\Moq.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.UnitTests\bin\Debug\WebDriver.xml

@@ -1,0 +1,53 @@
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.exe
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.Support.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\nunit.framework.dll
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.pdb
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.Support.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\nunit.framework.xml
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.QA.Bootstrap.csprojResolveAssemblyReference.cache
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.exe
+C:\workspace8\Tena.QA\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.Support.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\nunit.framework.dll
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\WebDriver.Support.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\bin\Debug\nunit.framework.xml
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.QA.Bootstrap.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.Bootstrap.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.SimpleInjector.dll.config
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\SimpleInjector.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\bin\Debug\Tena.QA.Pages.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.QA.Bootstrap.csprojResolveAssemblyReference.cache
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.exe
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Bootstrap\obj\Debug\Tena.Bootstrap.pdb

@@ -1,0 +1,18 @@
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\OpenPop.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\WebDriver.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\OpenPop.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\bin\Debug\WebDriver.xml
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\obj\Debug\Tena.QA.Service.dll
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\obj\Debug\Tena.QA.Service.pdb
+E:\tena\Tena.QA - Pure Storage - Copy\Projects\Tena.QA.Services\obj\Debug\Accenture.DirectoryStatistics.Service.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\Tena.QA.Service.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\Tena.QA.Service.pdb
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\OpenPop.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\WebDriver.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\OpenPop.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\bin\Debug\WebDriver.xml
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\obj\Debug\Accenture.DirectoryStatistics.Service.csprojResolveAssemblyReference.cache
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\obj\Debug\Tena.QA.Service.dll
+E:\tena\Accenture.DirectoryStatistics\Projects\Tena.QA.Services\obj\Debug\Tena.QA.Service.pdb
