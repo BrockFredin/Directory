@@ -14,7 +14,7 @@ Demo => Scenarios (directory stats) & Services (logging or system wide needs)
 3) Run AccentureDemoDisplayDirectoryStatistics 
 4) Run DirectoryStatisticsUserScenarios_DoesGettingDirectoryStatisticsWork_HappyPath
 
-# Sample Output
+# Sample Output (includes the readme file in the count)
 http://imgur.com/a/nW6nW
 
 22, 19, 208
