@@ -9,8 +9,8 @@ Foundation => Bootstrap (dependency injection) & Unit Tests
 Demo => Scenarios (directory stats) & Services (logging or system wide needs)
 
 # Instructions
-1) Obtain Sample Directory
-2) Change Path for Sample Directory within Accenture.DirectoryStatistics.Core (App.Config => Path)
+1) Obtain Sample Directory and place in default path => C:\CandidateSampleCodeBase
+2) Maintain or Change Path for Sample Directory within Accenture.DirectoryStatistics.Core (App.Config => Path)
 3) Run AccentureDemoDisplayDirectoryStatistics 
 4) Run DirectoryStatisticsUserScenarios_DoesGettingDirectoryStatisticsWork_HappyPath
 
