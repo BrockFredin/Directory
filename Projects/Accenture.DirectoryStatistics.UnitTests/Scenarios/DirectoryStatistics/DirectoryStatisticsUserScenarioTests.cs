@@ -19,7 +19,7 @@ namespace Accenture.DirectoryStatistics.UnitTests.Scenarios
             // Act
             someTestImpl.DirectoryScenario("a");
 
-            // Assert that sign in works
+            // Assert that directory methods work
             mockDirectoryStatistics.Verify(m => m.GetTotalNumberFilesProcessed("a"), Times.Once);
             mockDirectoryStatistics.Verify(m => m.GetTotalNumberFilesContainCode("a"), Times.Once);
             mockDirectoryStatistics.Verify(m => m.GetTotalNumberLinesCode("a"), Times.Once);
